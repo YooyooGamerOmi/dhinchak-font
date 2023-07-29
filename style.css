@@ -1,0 +1,40 @@
+.heading{
+
+    font-size: 25px;
+    width: 95%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-style: italic;
+
+}
+.note{
+    font-size: 20px;
+    color: black;
+
+
+}
+.copy_right_footer{
+
+    position: fixed;
+    bottom: 0;
+    background-color: aquamarine;
+    width: 100%;
+    color:red;
+    font-weight: 600;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-align: center;
+   line-height: 3;
+
+
+}
+
+
+canvas{
+
+    border: 5px ridge white;
+ box-shadow: 5px 5px 5px green;
+ border-radius: 20px;
+ margin-top: 25px;
+}
